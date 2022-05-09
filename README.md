@@ -7,6 +7,7 @@
 👉🏻 LinkedIn: www.linkedin.com/in/salvatore-latora
 👉🏻 E-mail: latorasalvatore98@gmail.com
 
+I will be glad to chat about interesting data science topics!
 <!---
 SalvatoreLatora/SalvatoreLatora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
