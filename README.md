@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SalvatoreLatora.
 - 👀 I’m 24 years old and I live in Italy
-- 🌱 I’m currently learning ...
 - 🏢 I’m graduated in Statistics for Data Analysis, I'm attenting a Master degree in Statistics and Data Science.
 - 📫 How to reach me?
 - Contact me on:
